@@ -5,16 +5,16 @@ INSERT INTO athletes (id, name, gender, dob) VALUES
 (4, 'August', 'm', '1999-09-09');
 
 INSERT INTO schema_migrations (migration, migrated_at) VALUES
-('20210228233506-create-table-athlete.sql', '2021-02-28 23:35:06');
+('20210405234125-create-table-athlete.sql', '2021-04-05 10:20:32');
 
 INSERT INTO schema_migrations (migration, migrated_at) VALUES
-('20210228234132-create-migrations.sql', '2021-02-28 23:41:32');
+('20210405238632-create-migrations.sql', '2021-04-05 10:30:10');
 
 INSERT INTO schema_migrations (migration, migrated_at) VALUES
-('2021022823490-update-athletes.sql', '2021-02-28 23:49:00');
+('20210405234708-update-athlete-tables.sql', '2021-04-05 10:49:00');
 
 INSERT INTO schema_migrations (migration, migrated_at) VALUES
-('20210228235200-create-competition-table.sql', '2021-02-28 23:55:00');
+('20210405231512-create-competition-table.sql', '2021-04-05 11:05:14');
 
 
 INSERT INTO competition(competitionid,name,venue,start_date_time,end_date_time, duration)
