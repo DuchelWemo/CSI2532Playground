@@ -25,3 +25,5 @@ ER5:https://github.com/DuchelWemo/CSI2532Playground/blob/4944c44cd5e78affc662eed
 ER6:https://github.com/DuchelWemo/CSI2532Playground/blob/4944c44cd5e78affc662eed2e4e846928cf3a844/ER6.PNG
 Laboratoire 4 Terminé
 ===================================================================================================================================================================================
+Pour ce laboratoire 5, on a du effectuer des migrations sur une base de données déjà en production:
+
