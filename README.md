@@ -16,3 +16,10 @@ cas 5:https://github.com/DuchelWemo/CSI2532Playground/blob/e1f4d36a8bce248e4f11d
 cas 6:https://github.com/DuchelWemo/CSI2532Playground/blob/e1f4d36a8bce248e4f11dcd8d5b4b08362503794/cas6.PNG
 Laboratoire 3 Terminé
 ===================================================================================================================================================================================
+Pour le laboratoire 4, on a du transformé des diagrammes relationnels en modèle entité-relation et soumettre les captures d'écrans:
+ER1:
+ER2:
+ER3:
+ER4:
+ER5:
+ER6:
