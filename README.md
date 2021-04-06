@@ -17,9 +17,11 @@ cas 6:https://github.com/DuchelWemo/CSI2532Playground/blob/e1f4d36a8bce248e4f11d
 Laboratoire 3 Terminé
 ===================================================================================================================================================================================
 Pour le laboratoire 4, on a du transformé des diagrammes relationnels en modèle entité-relation et soumettre les captures d'écrans:
-ER1:
-ER2:
-ER3:
-ER4:
-ER5:
-ER6:
+ER1:https://github.com/DuchelWemo/CSI2532Playground/blob/4944c44cd5e78affc662eed2e4e846928cf3a844/ER1.PNG
+ER2:https://github.com/DuchelWemo/CSI2532Playground/blob/4944c44cd5e78affc662eed2e4e846928cf3a844/ER2.PNG
+ER3:https://github.com/DuchelWemo/CSI2532Playground/blob/4944c44cd5e78affc662eed2e4e846928cf3a844/ER3.PNG
+ER4:https://github.com/DuchelWemo/CSI2532Playground/blob/4944c44cd5e78affc662eed2e4e846928cf3a844/ER4.PNG
+ER5:https://github.com/DuchelWemo/CSI2532Playground/blob/4944c44cd5e78affc662eed2e4e846928cf3a844/ER5.PNG
+ER6:https://github.com/DuchelWemo/CSI2532Playground/blob/4944c44cd5e78affc662eed2e4e846928cf3a844/ER6.PNG
+Laboratoire 4 Terminé
+===================================================================================================================================================================================
