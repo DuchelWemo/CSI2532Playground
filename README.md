@@ -28,5 +28,9 @@ Laboratoire 4 Terminé
 Pour ce laboratoire 5, on a du effectuer des migrations sur une base de données déjà en production:
 https://github.com/DuchelWemo/CSI2532Playground/tree/main/db
 Laboratoire 5 Terminé
-===================================================================================================================================================================================
+=================================================================================================================================================================================
+Pour ce laboratoire 6, on a du créer et travailler sur une base de données et y effectuer des migrations
+
+Laboratoire 6 Terminé
+=================================================================================================================================================================================
 
